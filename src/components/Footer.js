@@ -16,7 +16,7 @@ const Footer = () => (
         </li>
       </ul>
       <ul className="copyright">
-       <a href="http://rohithmylu.ml/"> <li>&copy; Mylu Rohith Bhargav</li> </a>
+       <li>&copy; Nitin Verma</li>
       </ul>
     </div>
   </div>
