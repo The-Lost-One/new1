@@ -11,7 +11,7 @@ const HomeIndex = () => {
   return (
     <Layout>
       <Helmet>
-        <title>Nithin Verma</title>
+        <title>Nitin Verma</title>
         <meta name="description" content={siteDescription} />
       </Helmet>
 
@@ -59,7 +59,7 @@ const HomeIndex = () => {
         <section id="three">
           <h2>Get In Touch</h2>
           <p>
-            Fell Free to Mail me any Time 
+            Feel Free to Mail me any Time 
           </p>
           <div className="row">
             <div className="4u 12u$(small)">
@@ -68,7 +68,7 @@ const HomeIndex = () => {
                   <h3 className="icon fa-envelope-o">
                     <span className="label">Email</span>
                   </h3>
-                  <a href="#">nitin993005@gmail.com</a>
+                  <a href="mailto:nitin993005@gmail.com">nitin993005@gmail.com</a>
                 </li>
               </ul>
             </div>
